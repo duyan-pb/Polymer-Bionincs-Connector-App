@@ -1,1 +1,1 @@
-# Polymer Bionics Sofrware Releases
+# Polymer Bionics Software Releases
